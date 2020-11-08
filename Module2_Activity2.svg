@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="66cm" height="18cm" viewBox="199 187 1303 345" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #5353aa" x="430" y="314" width="97.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="430" y="314" width="97.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="478.65" y="335.2">Automovil</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="1136" y="310" width="197.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1136" y="310" width="197.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1234.7" y="331.2">Tarjeta de Circulación</text>
+  </g>
+  <g>
+    <ellipse style="fill: #5353aa" cx="277.75" cy="418" rx="77.75" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="277.75" cy="418" rx="77.75" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="277.75" y="422">modeloAutomovil</text>
+  </g>
+  <g>
+    <ellipse style="fill: #5353aa" cx="469.9" cy="462" rx="73.9" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="469.9" cy="462" rx="73.9" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="469.9" y="466">placaAutomovil</text>
+  </g>
+  <g>
+    <ellipse style="fill: #5353aa" cx="661.9" cy="437" rx="73.9" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="661.9" cy="437" rx="73.9" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="661.9" y="441">colorAutomovil</text>
+  </g>
+  <g>
+    <ellipse style="fill: #00ff00" cx="1041.65" cy="443" rx="131.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1041.65" cy="443" rx="131.65" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1041.65" y="447">propietarioTarjetaCirculacion</text>
+  </g>
+  <g>
+    <ellipse style="fill: #00ff00" cx="1237.55" cy="513" rx="108.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1237.55" cy="513" rx="108.55" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1237.55" y="517">serieTarjetaCirculacion</text>
+  </g>
+  <g>
+    <ellipse style="fill: #00ff00" cx="1395.7" cy="450" rx="104.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1395.7" cy="450" rx="104.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1395.7" y="454">tipoTarjetaCirculacion</text>
+  </g>
+  <g>
+    <ellipse style="fill: #5353aa" cx="546.35" cy="233" rx="62.35" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="546.35" cy="233" rx="62.35" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="546.35" y="237">idAutomovil</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="504" y1="241" x2="588.7" y2="241"/>
+  </g>
+  <g>
+    <ellipse style="fill: #00ff00" cx="1232.7" cy="206" rx="104.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1232.7" cy="206" rx="104.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1232.7" y="210">idTarjetaDeCirculacion</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="434.286" y1="350.991" x2="315.639" y2="401.781"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="477.371" y1="350.995" x2="471.179" y2="443.005"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="511.813" y1="351.002" x2="632.121" y2="419.937"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="491.645" y1="312.996" x2="533.714" y2="251.478"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1234.99" y1="346.992" x2="1237.26" y2="494.008"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1202.82" y1="346.994" x2="1071.96" y2="424.944"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1259.74" y1="346.973" x2="1371.76" y2="431.861"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1234.39" y1="309.027" x2="1233.01" y2="224.973"/>
+  <g>
+    <polygon style="fill: #ffffff" points="794,329.48 844.8,299 895.6,329.48 844.8,359.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="794,329.48 844.8,299 895.6,329.48 844.8,359.96 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="788" y="323.48">1:1</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="901.6" y="323.48">1:N</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="844.8" y="333.48">Relación</text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="528.285" y1="331.658" x2="793.02" y2="329.836"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="896.595" y1="329.283" x2="1135.01" y2="328.378"/>
+</svg>
